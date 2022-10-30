@@ -1,4 +1,14 @@
 /* Write your code here. */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+
 .background-container {
   background-color: #0f172a;
   height: 100vh;
